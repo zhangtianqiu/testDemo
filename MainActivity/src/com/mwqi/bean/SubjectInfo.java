@@ -3,6 +3,10 @@ package com.mwqi.bean;
 
 /**
  * Created by mwqi on 2014/6/7.
+
+
+
+
  */
 public class SubjectInfo {
 
